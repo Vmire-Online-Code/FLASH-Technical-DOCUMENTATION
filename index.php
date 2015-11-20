@@ -45,7 +45,7 @@ function doPost($sMethod, $aPost = array())
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
 	<head>
-		<title>Angry Birds Rio</title>		
+		<title>НАЗВАНИЕ_ПРИЛОЖЕНИЯ</title>		
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
 		<link rel="stylesheet" type="text/css" href="<?php echo APP_URL; ?>static/style.php?public_key=<?php echo APP_PUBLIC_KEY; ?>" />
 		<script type="text/javascript">
